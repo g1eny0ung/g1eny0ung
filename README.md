@@ -12,13 +12,14 @@ A Chaos Engineering Platform for Kubernetes named [chaos-mesh](https://github.co
 
   > Why? Because I wanna deep dive into the type system.
 
-### 🌝 Favorite motto (share with u)
+### 🌝 Favorite motto
 
 - “Elegance and familiarity are orthogonal.” ---  Rich Hickey
 
-### 🤔 Inspired me
+### 🤔 Inspired me (share with u)
 
 - [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+- [Creative Output](https://paco.im/blog/creative)
 
 ### 📫 How to reach me:
 
