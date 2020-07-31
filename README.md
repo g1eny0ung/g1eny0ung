@@ -1,14 +1,19 @@
+<!-- markdownlint-disable-file MD033 -->
+<!-- markdownlint-disable-file MD041 -->
 <img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.webp" alt="pika" width="500px" />
 
 👋🏽 Hi, I'm Yue Yang ([https://g1eny0ung.site](https://g1eny0ung.site)). A software engineer at @PingCAP.
 
-![](https://img.shields.io/badge/macOS-Catalina-000?style=for-the-badge&logo=apple&logoColor=fff)
-![](https://img.shields.io/badge/Windows-10-2e8b57?style=for-the-badge&logo=windows&logoColor=fff)
+![macOS](https://img.shields.io/badge/macOS-Catalina-000?style=for-the-badge&logo=apple&logoColor=fff)
+![Windows](https://img.shields.io/badge/Windows-10-2e8b57?style=for-the-badge&logo=windows)
 
-![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript)
-![](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
-![](https://img.shields.io/badge/-OCaml-000?style=for-the-badge&logo=ocaml)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
+![OCaml](https://img.shields.io/badge/-OCaml-000?style=for-the-badge&logo=ocaml)
+
+![Dart](https://img.shields.io/badge/-Dart-00d2b8?style=for-the-badge&logo=dart&logoColor=0079b3)
+![Flutter](https://img.shields.io/badge/-Flutter-02539a?style=for-the-badge&logo=flutter)
 
 ### 🔭 Currently working on
 
