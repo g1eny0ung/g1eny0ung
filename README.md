@@ -1,4 +1,4 @@
-![pika](https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.webp)
+<img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.webp" alt="pika" width="50%" />
 
 👋🏽 Hi, I'm Yue Yang ([https://g1eny0ung.site](https://g1eny0ung.site)). A software engineer at @PingCAP.
 
