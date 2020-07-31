@@ -1,10 +1,18 @@
-<img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.webp" alt="pika" width="50%" />
+<img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.webp" alt="pika" width="500px" />
 
 👋🏽 Hi, I'm Yue Yang ([https://g1eny0ung.site](https://g1eny0ung.site)). A software engineer at @PingCAP.
 
+![](https://img.shields.io/badge/macOS-Catalina-000?style=for-the-badge&logo=apple&logoColor=fff)
+![](https://img.shields.io/badge/Windows-10-2e8b57?style=for-the-badge&logo=windows&logoColor=fff)
+
+![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
+![](https://img.shields.io/badge/-OCaml-000?style=for-the-badge&logo=ocaml)
+
 ### 🔭 Currently working on
 
-A Chaos Engineering Platform for Kubernetes named [chaos-mesh](https://github.com/pingcap/chaos-mesh). Welcome to use it and give us some feedback.~
+A Chaos Engineering Platform for Kubernetes named [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh). Welcome to use it and give us some feedback.~
 
 ### 🌱 Currently learning
 
