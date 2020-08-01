@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-file MD033 -->
 <!-- markdownlint-disable-file MD041 -->
-<img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.webp" alt="pika" width="500px" />
+<img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.gif" alt="pika" width="500px" />
 
 👋🏽 Hi, I'm Yue Yang ([https://g1eny0ung.site](https://g1eny0ung.site)). A software engineer at @PingCAP.
 
