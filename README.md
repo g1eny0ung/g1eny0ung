@@ -1,5 +1,8 @@
+<!-- markdownlint-disable-file MD001 -->
 <!-- markdownlint-disable-file MD033 -->
-<!-- markdownlint-disable-file MD041 -->
+
+# README
+
 <img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.gif" alt="pika" width="500px" />
 
 👋🏽 Hi, I'm Yue Yang ([https://g1eny0ung.site](https://g1eny0ung.site)). A software engineer at @PingCAP.
@@ -12,7 +15,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?style=for-the-badge&logo=ocaml)
 
-![Dart](https://img.shields.io/badge/-Dart-00d2b8?style=for-the-badge&logo=dart&logoColor=0079b3)
+![Dart](https://img.shields.io/badge/-Dart-1c2834?style=for-the-badge&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02539a?style=for-the-badge&logo=flutter)
 
 ### 🔭 Currently working on
