@@ -13,8 +13,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?style=for-the-badge&logo=ocaml)
 
-![Dart](https://img.shields.io/badge/-Dart-00b4ab?style=for-the-badge&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-02539a?style=for-the-badge&logo=flutter)
+![Flutter](https://img.shields.io/badge/Flutter-Dart-00b4ab?labelColor=02539a&style=for-the-badge&logo=flutter)
 
 ### 🔭 Currently working on
 
