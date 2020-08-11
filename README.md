@@ -1,7 +1,5 @@
-<!-- markdownlint-disable-file MD001 -->
 <!-- markdownlint-disable-file MD033 -->
-
-# README
+<!-- markdownlint-disable-file MD041 -->
 
 <img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.gif" alt="pika" width="500px" />
 
