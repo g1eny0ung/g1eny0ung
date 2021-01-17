@@ -8,7 +8,7 @@
 ![macOS](https://img.shields.io/badge/macOS-Catalina-000?style=for-the-badge&logo=apple&logoColor=fff)
 ![Windows](https://img.shields.io/badge/Windows-10-2e8b57?style=for-the-badge&logo=windows)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
 ![OCaml](https://img.shields.io/badge/-OCaml-000?style=for-the-badge&logo=ocaml)
