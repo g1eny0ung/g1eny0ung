@@ -5,8 +5,7 @@
 
 👋🏽 Hi, I'm Yue Yang ([https://g1eny0ung.site](https://g1eny0ung.site)). A software engineer at @PingCAP.
 
-![macOS](https://img.shields.io/badge/macOS-Catalina-000?style=for-the-badge&logo=apple&logoColor=fff)
-![Windows](https://img.shields.io/badge/Windows-10-2e8b57?style=for-the-badge&logo=windows)
+![macOS](https://img.shields.io/badge/macOS-BigSur-000?style=for-the-badge&logo=apple&logoColor=fff)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -17,7 +16,7 @@
 
 ### 🔭 Currently working on
 
-A Chaos Engineering Platform for Kubernetes named [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh). Welcome to use it and give us some feedback.~
+A Chaos Engineering Platform for Kubernetes named [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh). Welcome to try it and give us some feedback.~
 
 ### 🌱 Currently learning
 
@@ -34,10 +33,10 @@ A Chaos Engineering Platform for Kubernetes named [Chaos Mesh](https://github.co
 - [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 - [Creative Output](https://paco.im/blog/creative)
 
-### 📫 How to reach me:
+### 📫 How to reach me
 
 - My email, can be seen on the left
-- [Message me on Twitter ~](https://twitter.com/g1eny0ung)
+- [Message me on Twitter](https://twitter.com/g1eny0ung)
 
 <!--
 **g1eny0ung/g1eny0ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
