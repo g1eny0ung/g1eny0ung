@@ -5,8 +5,6 @@
 
 👋🏽 Hi, I'm Yue Yang ([https://g1eny0ung.site](https://g1eny0ung.site)). A software engineer at @PingCAP.
 
-![macOS](https://img.shields.io/badge/macOS-BigSur-000?style=for-the-badge&logo=apple&logoColor=fff)
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
