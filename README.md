@@ -5,12 +5,10 @@
 
 👋🏽 Hi, I'm Yue Yang (<https://g1en.site>). A software engineer at [@PingCAP](https://github.com/pingcap).
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Rust](https://img.shields.io/badge/-Rust-000?style=for-the-badge&logo=rust)
-![OCaml](https://img.shields.io/badge/-OCaml-000?style=for-the-badge&logo=ocaml)
-
-![Flutter](https://img.shields.io/badge/Flutter-Dart-00b4ab?labelColor=02539a&style=for-the-badge&logo=flutter)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=for-the-badge&logo=javascript)
+![Clojure](https://img.shields.io/badge/-Clojure-222?style=for-the-badge&logo=clojure)
+![Rust](https://img.shields.io/badge/-Rust-222?style=for-the-badge&logo=rust)
 
 ### 🔭 Currently working on
 
@@ -18,7 +16,7 @@ A Chaos Engineering Platform for Kubernetes named [Chaos Mesh](https://github.co
 
 ### 🌱 Currently learning
 
-- OCaml
+- ![OCaml](https://img.shields.io/badge/-OCaml-222?style=for-the-badge&logo=ocaml)
 
   > Why? Because I wanna deep dive into the type system.
 
