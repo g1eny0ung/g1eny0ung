@@ -16,9 +16,9 @@ A Chaos Engineering Platform for Kubernetes named [Chaos Mesh](https://github.co
 
 ### 🌱 Currently learning
 
-- ![OCaml](https://img.shields.io/badge/-OCaml-222?style=for-the-badge&logo=ocaml)
+![OCaml](https://img.shields.io/badge/-OCaml-222?style=for-the-badge&logo=ocaml)
 
-  > Why? Because I wanna deep dive into the type system.
+> Why? Because I wanna deep dive into the type system.
 
 ### 🌝 Favorite motto
 
