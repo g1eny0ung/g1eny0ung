@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.gif" alt="pika" width="500px" />
 
-👋🏽 Hi, I'm Yue Yang (<https://g1en.site>). A software engineer at [@PingCAP](https://github.com/pingcap).
+👋🏽 Hi, I'm Yue Yang (<https://g1en.site>). A software engineer at [@emqx](https://github.com/emqx). Previous [@PingCAP](https://github.com/pingcap).
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=for-the-badge&logo=javascript)
