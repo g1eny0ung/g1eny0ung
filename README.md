@@ -27,7 +27,7 @@ A Chaos Engineering Platform for Kubernetes named [Chaos Mesh](https://github.co
 ### 🤔 Inspired me (share with u)
 
 - [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
-- [Creative Output](https://paco.im/blog/creative)
+- [Creative Output](https://paco.me/writing/creative-output)
 
 ### 📫 How to reach me
 
