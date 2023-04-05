@@ -14,7 +14,7 @@
 >
 > [![Patreon](https://img.shields.io/badge/-Become%20a%20Patron!-F1465A?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/bePatron?u=42327574)
 >
-> Thank you all for your support.
+> Thank you all for your support, it inspires me to create and maintain more projects in the future. 🦾
 
 ### 🔭 Currently working on
 
