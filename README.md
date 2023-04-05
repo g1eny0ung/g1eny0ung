@@ -11,9 +11,9 @@
 ![Rust](https://img.shields.io/badge/-Rust-222?style=for-the-badge&logo=rust)
 
 > If you like my work or find it helpful, please consider buying me a cup of coffee ☕️.
->
-> <a href="https://www.patreon.com/bePatron?u=42327574" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
->
+
+<a href="https://www.patreon.com/bePatron?u=42327574" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 > Thank you all for your support.
 
 ### 🔭 Currently working on
