@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-file MD033 -->
 <!-- markdownlint-disable-file MD041 -->
 
-<img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.gif" alt="pika" width="500px" />
+<img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.gif" alt="pika" width="450px" />
 
 👋🏽 Hi, I'm Yue Yang (<https://g1en.site>). A software engineer at [@emqx](https://github.com/emqx). Former [@PingCAP](https://github.com/pingcap).
 
@@ -22,9 +22,9 @@ A Chaos Engineering Platform for Kubernetes called [Chaos Mesh](https://github.c
 
 ### 🌱 Currently learning
 
-![OCaml](https://img.shields.io/badge/-OCaml-222?style=for-the-badge&logo=ocaml)
+- ![OCaml](https://img.shields.io/badge/-OCaml-222?style=for-the-badge&logo=ocaml)
 
-> Why? Because I want to delve deeply into the type system.
+  > Why? Because I want to delve deeply into the type system.
 
 ### 🌝 Favorite motto
 
@@ -37,7 +37,7 @@ A Chaos Engineering Platform for Kubernetes called [Chaos Mesh](https://github.c
 
 ### 📫 How to reach me
 
-- My email, can be seen on the left
+- My email, can be seen on the left.
 
 <!--
 **g1eny0ung/g1eny0ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
