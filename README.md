@@ -5,6 +5,8 @@
 
 👋🏽 Hi, I'm Yue Yang (<https://g1en.site>). A software engineer at [@emqx](https://github.com/emqx). Former [@PingCAP](https://github.com/pingcap).
 
+[![wakatime](https://wakatime.com/badge/user/58e78746-0516-43e2-87ff-3cd3d39090b7.svg)](https://wakatime.com/@58e78746-0516-43e2-87ff-3cd3d39090b7)
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=for-the-badge&logo=javascript)
 ![Clojure](https://img.shields.io/badge/-Clojure-222?style=for-the-badge&logo=clojure)
