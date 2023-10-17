@@ -14,9 +14,9 @@
 
 > If you like my work or find it helpful, please consider buying me a cup of coffee ☕️.
 >
-> [![Patreon](https://img.shields.io/badge/-Become%20a%20Patron!-F1465A?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/g1eny0ung)
->
 > Thank you all for your support, it inspires me to create and maintain more projects in the future. 🦾
+
+[![Patreon](https://img.shields.io/badge/-Become%20a%20Patron!-F1465A?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/g1eny0ung)
 
 ### 🔭 Currently working on
 
