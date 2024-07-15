@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.gif" alt="pika" width="450px" />
 
-👋🏽 Hi, I'm Yue Yang (<https://g1en.site>). A software engineer at [@emqx](https://github.com/emqx). Former [@PingCAP](https://github.com/pingcap).
+👋🏽 Hi, I'm Yue Yang (<https://g1en.site>). A software engineer currently exploring freelancing. Former [@PingCAP](https://github.com/pingcap).
 
 [![wakatime](https://wakatime.com/badge/user/58e78746-0516-43e2-87ff-3cd3d39090b7.svg)](https://wakatime.com/@58e78746-0516-43e2-87ff-3cd3d39090b7)
 
