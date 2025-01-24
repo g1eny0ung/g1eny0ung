@@ -12,11 +12,9 @@
 ![Clojure](https://img.shields.io/badge/-Clojure-222?style=for-the-badge&logo=clojure)
 ![Rust](https://img.shields.io/badge/-Rust-222?style=for-the-badge&logo=rust)
 
-> If you like my work or find it helpful, please consider buying me a cup of coffee ☕️.
->
-> Thank you all for your support, it inspires me to create and maintain more projects in the future. 🦾
-
-[![Patreon](https://img.shields.io/badge/-Become%20a%20Patron!-F1465A?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/g1eny0ung)
+> [!TIP]
+> If you like my works or find them helpful, please consider buying me a cup of coffee ☕️ (via GitHub Sponsors).
+> It inspires me to create and maintain more projects in the future. 🦾
 
 ### 🔭 Currently working on
 
@@ -28,18 +26,19 @@ A Chaos Engineering Platform for Kubernetes called [Chaos Mesh](https://github.c
 
   > Why? Because I want to delve deeply into the type system.
 
-### 🌝 Favorite motto
+### ⛰️ Favorite mottos
 
-- “Elegance and familiarity are orthogonal.” ---  Rich Hickey
+- 与其感慨路难行，不如马上出发。
+- "Elegance and familiarity are orthogonal." ---  Rich Hickey
 
-### 🤔 Inspired me (share with u)
+### 🤔 Inspired me
 
 - [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
 - [Creative Output](https://paco.me/writing/creative-output)
 
 ### 📫 How to reach me
 
-- My email, can be seen on the left.
+My email, can be seen on the left.
 
 <!--
 **g1eny0ung/g1eny0ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
