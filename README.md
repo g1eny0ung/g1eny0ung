@@ -8,9 +8,9 @@
 [![wakatime](https://wakatime.com/badge/user/58e78746-0516-43e2-87ff-3cd3d39090b7.svg)](https://wakatime.com/@58e78746-0516-43e2-87ff-3cd3d39090b7)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=for-the-badge&logo=javascript)
-![Clojure](https://img.shields.io/badge/-Clojure-222?style=for-the-badge&logo=clojure)
-![Rust](https://img.shields.io/badge/-Rust-222?style=for-the-badge&logo=rust)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![Clojure](https://img.shields.io/badge/-Clojure-333?style=for-the-badge&logo=clojure)
+![Rust](https://img.shields.io/badge/-Rust-333?style=for-the-badge&logo=rust)
 
 > [!TIP]
 > If you like my works or find them helpful, please consider buying me a cup of coffee ☕️ (via GitHub Sponsors).
@@ -19,12 +19,6 @@
 ### 🔭 Currently working on
 
 A Chaos Engineering Platform for Kubernetes called [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh). Feel free to give it a try and give us feedback.
-
-### 🌱 Currently learning
-
-- ![OCaml](https://img.shields.io/badge/-OCaml-222?style=for-the-badge&logo=ocaml)
-
-  > Why? Because I want to delve deeply into the type system.
 
 ### ⛰️ Favorite mottos
 
