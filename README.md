@@ -3,17 +3,21 @@
 
 <img src="https://raw.githubusercontent.com/g1eny0ung/g1eny0ung/master/pika.gif" alt="pika" width="450px" />
 
-👋🏽 Hi, I'm Yue Yang (<https://g1en.site>). A software engineer currently exploring freelancing. Former [@PingCAP](https://github.com/pingcap).
+👋🏼 Hi, I'm Yue Yang. A software engineer currently exploring freelancing. Former [@PingCAP](https://github.com/pingcap).
+
+My personal blog is at <https://g1en.site>, written in Chinese.
+
+I also showcase the products I've created at <https://products.g1en.site>.
 
 [![wakatime](https://wakatime.com/badge/user/58e78746-0516-43e2-87ff-3cd3d39090b7.svg)](https://wakatime.com/@58e78746-0516-43e2-87ff-3cd3d39090b7)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
-![Clojure](https://img.shields.io/badge/-Clojure-333?style=for-the-badge&logo=clojure)
+![Clojure](https://img.shields.io/badge/-Clojure-1b3a73?style=for-the-badge&logo=clojure&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-333?style=for-the-badge&logo=rust)
 
 > [!TIP]
-> If you like my works or find them helpful, please consider buying me a cup of coffee ☕️ (via GitHub Sponsors).
+> If you like my works or find them helpful, please consider buying me a cup of coffee ☕️ (via [GitHub Sponsors](https://github.com/sponsors/g1eny0ung)).
 > It inspires me to create and maintain more projects in the future. 🦾
 
 ### 🔭 Currently working on
